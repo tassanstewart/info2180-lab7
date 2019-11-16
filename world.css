@@ -1,0 +1,24 @@
+h1{
+	background: royalblue;
+	color: white;
+	text-align: center;
+	line-height: 2.5;
+	font-family: "Times New Roman";
+}
+
+
+#country{
+	justify-content: center;
+	width: 300px;
+	height: 30px;
+	border-radius: 5px;
+
+}
+#lookup{
+	background: green;
+	color: white;
+	height:35px;
+	border-radius: 5px;
+	font-family: "Times New Roman";
+	width: 60px;
+}

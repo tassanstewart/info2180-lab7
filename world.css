@@ -22,3 +22,12 @@ h1{
 	font-family: "Times New Roman";
 	width: 60px;
 }
+
+#lookup2{
+	background: blue;
+	color: white;
+	height:35px;
+	border-radius: 5px;
+	font-family: "Times New Roman";
+	width: 100px;
+}

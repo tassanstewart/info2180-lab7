@@ -9,13 +9,13 @@ function myFunction() {
 	
     element.onclick = function(){
     	country = document.getElementById("country").value;
-    	url = "https://e2eb694e20814d80ac20af2aa2e13058.vfs.cloud9.us-east-1.amazonaws.com/world.php?country="+country;
+    	url = "world.php?country="+country;
     	clickFunction(url);
     };
     
     element2.onclick = function(){
     	country = document.getElementById("country").value;
-    	url = "https://e2eb694e20814d80ac20af2aa2e13058.vfs.cloud9.us-east-1.amazonaws.com/world.php?country="+country+"&context=cities";
+    	url = "world.php?country="+country+"&context=cities";
     	clickFunction(url);
     }
     
